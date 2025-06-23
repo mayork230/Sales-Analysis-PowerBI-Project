@@ -7,6 +7,7 @@
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Project Overview](#Project-Overview)
+- [Tools and Skills](#Tools-and-Skills)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Data Exploration and Insights](#Data-Exploration-and-Insights)
 - [Recommendations](#Recommendations)
