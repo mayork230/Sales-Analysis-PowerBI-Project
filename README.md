@@ -95,5 +95,16 @@ The plot twist arrived in 2023. Demand roared back: sales soared 29.5 % to $609 
 
 2025 begins with a blank slate—no orders yet—setting the stage for a margin-focused campaign.
 
+-- Who buys what? 
+Technology is the undisputed star, booking $836k. Phones alone contribute 14% of total company revenue—a single SKU family that can make or break monthly targets. Furniture follows close behind ($742 k) driven by ergonomic Chairs, while Office Supplies trail ($719 k) but provide steady, low-risk turnover through Storage and Binder sales.
+
+-- Whose money is it?
+Individual Consumers deliver over $1.16 M, half of all revenue, largely through weekend web orders. Corporate buyers chip in $706 k, spiking mid-week when procurement teams cut POs. Home-Office entrepreneurs add $430 k, a slice that swelled during remote-work peaks.
+
+
+
+
+
+
 
 
